@@ -14,3 +14,43 @@
 ```$ git --version```
 
 ```$ git init```
+
+```$ git status```
+
+```$ git add -A```
+
+```$ git commit -m "add day 20 files"```
+
+```$ git log```
+
+```$ git log --graph```
+
+```$ git branch```
+
+This will list all the branches of our git repository
+
+```$ git branch -v```
+
+This will give us more details about each branch
+
+```$ git branch <branch_name>```
+
+This will create a new branch with the specified name.  The convention for branch name is:  feature
+
+```$ git checkout <branch_name>```
+
+This is how you switch between branches
+
+```$ git merge <brance_name>```
+
+This will try to merge two branches together.  The branch you are currently in with the branch name you specify in the command.
+
+
+
+
+
+
+
+
+
+<!--  -->
